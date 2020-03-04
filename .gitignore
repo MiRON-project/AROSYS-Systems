@@ -11,6 +11,7 @@ opcua-backend/
 datasheet-gen/
 src-gen/
 __pycache__/
+smartsoft/
 
 # untracked files
 CompHandler.*
