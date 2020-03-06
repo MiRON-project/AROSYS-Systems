@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>SystemLaserObstacleAvoidTiagoWebotsSimulator</name>
+	<name>SystemWebotsMultiRobots</name>
 	<comment></comment>
 	<projects>
 		<project>ComponentLaserObstacleAvoid</project>
 		<project>ComponentWebots</project>
 		<project>ComponentWebotsLidar</project>
-		<project>ComponentWebotsRobot</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

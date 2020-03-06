@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ComponentArchitecture="http://www.ecore.org/system/ComponentArchitecture" xmlns:Deployment="http://www.ecore.org/system/Deployment" xmlns:TargetPlatform="http://www.ecore.org/system/TargetPlatform" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description">
+  <viewpoint:DAnalysis uid="_SnRtgF5FEeq09PtlWfQB-g" selectedViews="_Srmz4F5FEeq09PtlWfQB-g _Svue4F5FEeq09PtlWfQB-g _Swpr8F5FEeq09PtlWfQB-g" version="14.1.0.201810161215">
+    <semanticResources>model/SystemWebotsTiagoNavigationMiron.componentArch</semanticResources>
+    <semanticResources>model/SystemWebotsTiagoNavigationMiron.deployment</semanticResources>
+    <semanticResources>model/SystemWebotsTiagoNavigationMiron.target</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" uid="_Srmz4F5FEeq09PtlWfQB-g">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.sirius.system.deployment.design/description/deployment.odesign#//@ownedViewpoints[name='DeploymentViewpoint']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_SvB7UF5FEeq09PtlWfQB-g" name="SystemWebotsTiagoNavigationMironDeployment" repPath="#_SujaMF5FEeq09PtlWfQB-g">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sirius.system.deployment.design/description/deployment.odesign#//@ownedViewpoints[name='DeploymentViewpoint']/@ownedRepresentations[name='DeploymentDiagram']"/>
+        <target xmi:type="Deployment:DeploymentModel" href="model/SystemWebotsTiagoNavigationMiron.deployment#SystemWebotsTiagoNavigationMiron"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+    <ownedViews xmi:type="viewpoint:DView" uid="_Svue4F5FEeq09PtlWfQB-g">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.sirius.system.componentArchitecture.design/description/componentArchitecture.odesign#//@ownedViewpoints[name='SystemArchitectureViewpoint']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_Swi-Q15FEeq09PtlWfQB-g" name="SystemWebotsTiagoNavigationMironComponentArchitecture" repPath="#_SwhwIF5FEeq09PtlWfQB-g">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sirius.system.componentArchitecture.design/description/componentArchitecture.odesign#//@ownedViewpoints[name='SystemArchitectureViewpoint']/@ownedRepresentations[name='SystemArchitectureDiagram']"/>
+        <target xmi:type="ComponentArchitecture:SystemComponentArchitecture" href="model/SystemWebotsTiagoNavigationMiron.componentArch#SystemWebotsTiagoNavigationMiron"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+    <ownedViews xmi:type="viewpoint:DView" uid="_Swpr8F5FEeq09PtlWfQB-g">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.sirius.system.targetPlatform.design/description/targetPlatform.odesign#//@ownedViewpoints[name='TargetPlatformViewpoint']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_SxVoc15FEeq09PtlWfQB-g" name="SystemWebotsTiagoNavigationMironTargetPlatform" repPath="#_SxUaUF5FEeq09PtlWfQB-g">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sirius.system.targetPlatform.design/description/targetPlatform.odesign#//@ownedViewpoints[name='TargetPlatformViewpoint']/@ownedRepresentations[name='TargetPlatformDiagram']"/>
+        <target xmi:type="TargetPlatform:TargetPlatformModel" href="model/SystemWebotsTiagoNavigationMiron.target#SystemWebotsTiagoNavigationMiron"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram uid="_SujaMF5FEeq09PtlWfQB-g" name="SystemWebotsTiagoNavigationMironDeployment">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_SvAGIF5FEeq09PtlWfQB-g" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_SvAGIV5FEeq09PtlWfQB-g"/>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_SvOvoF5FEeq09PtlWfQB-g" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_SvOvoV5FEeq09PtlWfQB-g" type="Sirius" element="_SujaMF5FEeq09PtlWfQB-g" measurementUnit="Pixel">
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_SvOvol5FEeq09PtlWfQB-g"/>
+      </data>
+    </ownedAnnotationEntries>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sirius.system.deployment.design/description/deployment.odesign#//@ownedViewpoints[name='DeploymentViewpoint']/@ownedRepresentations[name='DeploymentDiagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_Suo5wF5FEeq09PtlWfQB-g"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/org.sirius.system.deployment.design/description/deployment.odesign#//@ownedViewpoints[name='DeploymentViewpoint']/@ownedRepresentations[name='DeploymentDiagram']/@defaultLayer"/>
+    <target xmi:type="Deployment:DeploymentModel" href="model/SystemWebotsTiagoNavigationMiron.deployment#SystemWebotsTiagoNavigationMiron"/>
+  </diagram:DSemanticDiagram>
+  <diagram:DSemanticDiagram uid="_SwhwIF5FEeq09PtlWfQB-g" name="SystemWebotsTiagoNavigationMironComponentArchitecture">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_Swi-QF5FEeq09PtlWfQB-g" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_Swi-QV5FEeq09PtlWfQB-g"/>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_Swi-RF5FEeq09PtlWfQB-g" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_Swi-RV5FEeq09PtlWfQB-g" type="Sirius" element="_SwhwIF5FEeq09PtlWfQB-g" measurementUnit="Pixel">
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_Swi-Rl5FEeq09PtlWfQB-g"/>
+      </data>
+    </ownedAnnotationEntries>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sirius.system.componentArchitecture.design/description/componentArchitecture.odesign#//@ownedViewpoints[name='SystemArchitectureViewpoint']/@ownedRepresentations[name='SystemArchitectureDiagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_SwhwIV5FEeq09PtlWfQB-g"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/org.sirius.system.componentArchitecture.design/description/componentArchitecture.odesign#//@ownedViewpoints[name='SystemArchitectureViewpoint']/@ownedRepresentations[name='SystemArchitectureDiagram']/@defaultLayer"/>
+    <target xmi:type="ComponentArchitecture:SystemComponentArchitecture" href="model/SystemWebotsTiagoNavigationMiron.componentArch#SystemWebotsTiagoNavigationMiron"/>
+  </diagram:DSemanticDiagram>
+  <diagram:DSemanticDiagram uid="_SxUaUF5FEeq09PtlWfQB-g" name="SystemWebotsTiagoNavigationMironTargetPlatform">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_SxVocF5FEeq09PtlWfQB-g" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_SxVocV5FEeq09PtlWfQB-g"/>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_SxVodF5FEeq09PtlWfQB-g" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_SxVodV5FEeq09PtlWfQB-g" type="Sirius" element="_SxUaUF5FEeq09PtlWfQB-g" measurementUnit="Pixel">
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_SxVodl5FEeq09PtlWfQB-g"/>
+      </data>
+    </ownedAnnotationEntries>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sirius.system.targetPlatform.design/description/targetPlatform.odesign#//@ownedViewpoints[name='TargetPlatformViewpoint']/@ownedRepresentations[name='TargetPlatformDiagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_SxUaUV5FEeq09PtlWfQB-g"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/org.sirius.system.targetPlatform.design/description/targetPlatform.odesign#//@ownedViewpoints[name='TargetPlatformViewpoint']/@ownedRepresentations[name='TargetPlatformDiagram']/@defaultLayer"/>
+    <target xmi:type="TargetPlatform:TargetPlatformModel" href="model/SystemWebotsTiagoNavigationMiron.target#SystemWebotsTiagoNavigationMiron"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>
