@@ -11,13 +11,9 @@ opcua-backend/
 datasheet-gen/
 src-gen/
 __pycache__/
-smartsoft/
 model/
 
 # untracked files
 CompHandler.*
 BaseStateQueryHandler.*
 SmartStateChangeHandler.*
-startstop-hooks*
-System*/smartsoft/src/predeploy*
-System*/smartsoft/CMakeLists.txt
